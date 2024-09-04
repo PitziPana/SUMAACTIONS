@@ -17,4 +17,4 @@ jobs:
         python-version: '3.x'
 
     - name: Ejecutar script de suma
-      run: python sumar.py
+      run: python suma.py
